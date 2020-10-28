@@ -60,6 +60,7 @@ function geojson_tester_ui() {
 						<textarea id="geojson-output" name="geojson-output"></textarea>
 						</div>
 						<button id="gjt-copy">Copy</button>
+						<div class="gjt-gist-link"><a href="https://gist.github.com/" target="_blank">Open gist</a> (new tab)</div>
 					</form>
 				</div>
 				<div class="gjt-info gjt-loading">
