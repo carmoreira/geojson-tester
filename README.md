@@ -1,0 +1,1 @@
+Use the shortcode [geojson-tester] to display the utility.
