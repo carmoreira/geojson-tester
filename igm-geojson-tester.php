@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: GeoJson Tester
-Plugin URI: http://interactivegeomaps.com
+Plugin URI: https://github.com/carmoreira/geojson-tester
 Description: Tools to check and help create geojson files to use in Interactive Geo Maps. Uses shortcode [geojson-tester].
 Author: Carlos Moreira
 Version: 1.0.0
